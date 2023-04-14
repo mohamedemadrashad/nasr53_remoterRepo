@@ -2,6 +2,7 @@
 
 int main ()
 {
-    printf("nasr 53");
+    int x;
+    int y;
     return 0;
 }
